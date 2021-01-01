@@ -1,3 +1,6 @@
+Replaced by github.com/switchdoclabs/SDL_Pi_iBeaconScanner   2020
+
+
 SwitchDoc Labs, LLC
 June 2014
 
